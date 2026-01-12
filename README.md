@@ -1,4 +1,4 @@
-# 🚀 React Frontend Application
+se# 🚀 React Frontend Application
 
 Este repositório contém uma aplicação Front-end desenvolvida com **React**, focada em boas práticas, organização de código e reutilização de componentes.
 
@@ -108,6 +108,7 @@ Controle de permissões
 Testes unitários
 Testes end-to-end
 Internacionalização (i18n)
+819792-3534
 Dark Mode
 🤝 Contribuição
 Contribuições são bem-vindas!
