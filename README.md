@@ -104,11 +104,9 @@ Nomes de arquivos e variáveis padronizados
 Integração com API real
 Implementação de autenticação
 Controle de permissões
-8195379034
 Testes unitários
 Testes end-to-end
 Internacionalização (i18n)
-819792-3534
 Dark Mode
 🤝 Contribuição
 Contribuições são bem-vindas!
